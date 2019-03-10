@@ -3,7 +3,7 @@ Mobile app of Özgür Saha using React Native.
 
 
 ## Links:
-#### [Google Play](play.google.com/store/apps/details?id=com.kurkix.ozgursaha)   
+#### [Google Play](https://play.google.com/store/apps/details?id=com.kurkix.ozgursaha)   
 #### [Web](https://ozgursaha.com) 
 #### [Facebook](https://www.facebook.com/ozgursahacom/)
  #### [Twitter](https://twitter.com/OzgurSaha)
